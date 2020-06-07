@@ -2,4 +2,4 @@
 
 `Стек`: HTML5, CSS3, анимация.
 ***
-[https://zavizhenetc.github.io/start-to-learn-/]
+[start-to-learn](https://zavizhenetc.github.io/start-to-learn-/)
